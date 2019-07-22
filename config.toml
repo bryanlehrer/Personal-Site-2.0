@@ -1,0 +1,29 @@
+# The URL the site will be built for
+base_url = "https://www.bryanlehrer.com/"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+generate_rss = true
+
+theme = "hyde"
+
+title = "Bryan Lehrer"
+description = "Personal Site"
+
+[extra]
+hyde_reverse = false
+hyde_theme = ""
+hyde_links = [
+    {url = "/entries", name = "Entries"},
+    {url = "/about", name = "About"},
+    {url = "mailto:bryanlehrer@gmail.com", name = "Email"},
+    {url = "https://twitter.com/BryanLehrer", name = "Twitter"},
+]

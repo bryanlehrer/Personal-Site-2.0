@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+        <url>
+            <loc>https%3A//www.bryanlehrer.com/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//www.bryanlehrer.com/About/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//www.bryanlehrer.com/Entries/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//www.bryanlehrer.com/Entries/some-article/</loc>
+            
+                <lastmod>2017-09-24</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//www.bryanlehrer.com/Entries/some-other-article-copy-2/</loc>
+            
+                <lastmod>2017-09-25</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//www.bryanlehrer.com/Entries/some-other-article/</loc>
+            
+                <lastmod>2017-09-27</lastmod>
+            
+        </url>
+    
+</urlset>
