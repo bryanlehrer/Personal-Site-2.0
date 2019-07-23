@@ -1,3 +1,0 @@
-[submodule "theme/hyde"] 
-  path = themes/hyde 
-  url = git://https://github.com/getzola/hyde.git
